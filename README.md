@@ -3,7 +3,7 @@
 ![Solution](https://github.com/yemisprojects/aws-autotag/blob/main/images/Architecture.png)
 <h4 align="center">Architecture diagram</h4>
 
-##                              Technical overview
+<h2 align="center">Technical overview</h2>
 
 This solution uses an automated workflow to tag newly created resources. When an AWS resource is created a corresponding event is logged by AWS Cloudtrail. This event will be captured by Eventbridge and trigger a rule set to monitor selected events. The triggered rule sends the event to a Lambda function to be processed. The Lambda function identifies the name of the IAM user or role that created the resource and tags the resource with the same name and any associated tags applied to the user or role.
 
