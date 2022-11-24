@@ -1,4 +1,5 @@
 <h2 align="center">Auto tag AWS solution deployed with Terraform</h2>
+This repository is used for my [medium blog post](https://aws.plainenglish.io/how-to-auto-tag-new-aws-resources-and-deploy-solution-with-terraform-de48ec644d95)
 
 ![Solution](https://github.com/yemisprojects/aws-autotag/blob/main/images/Architecture.png)
 <h4 align="center">Architecture diagram</h4>
