@@ -20,3 +20,7 @@ terraform init
 terraform plan
 terraform apply --auto-approve
 ```
+
+## Blog Post
+
+[![Image](https://github.com/yemisprojects/aws-autotag-private/blob/main/screenshots/blog_caption/Blog_post_AWS_resource_autotag.png "Tag New AWS Resources Automatically")](https://aws.plainenglish.io/how-to-auto-tag-new-aws-resources-and-deploy-solution-with-terraform-de48ec644d95)
