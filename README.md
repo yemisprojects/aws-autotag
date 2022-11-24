@@ -5,7 +5,7 @@ This repository is used for my [medium blog post](https://aws.plainenglish.io/ho
 <h2 align="center">AWS Autotag Achitecture</h2>
 
 ![Solution](https://github.com/yemisprojects/aws-autotag/blob/main/images/Architecture.png)
-<h4 align="center">Architecture diagram</h4>
+<h4 align="center"></h4>
 
 <h2 align="center">Technical overview</h2>
 
